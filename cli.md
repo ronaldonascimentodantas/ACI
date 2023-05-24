@@ -25,32 +25,31 @@ Usesful ACI CLI commands. For leaf switches and APIC Controllers.
     show endpoints mac <mac-address>
     show endpoints vlan <vlanid>
 
-show tenant <tenantname> detail
-show tenant <tenant name> epg <epgname> details
-fabric <nodeid> show port-channel database
-fabric <nodeid> show port-channel summary
-fabric <nodeid> show mac address-table interface port-channel <POn>
-
+    show tenant <tenantname> detail
+    show tenant <tenant name> epg <epgname> details
+    fabric <nodeid> show port-channel database
+    fabric <nodeid> show port-channel summary
+    fabric <nodeid> show mac address-table interface port-channel <POn>
 
 ## LEAF CLI
 
-show version
-show interface 1/n 
-show interface brief
-show interface status
-show interface description
-show interface 1/n transceiver detail
-show hardware
-show module
-show environment
-show clock
-show port-channel summary
-show vpc brief
-show cdp neighbor
-show lldp neighbor
-show endpoint interface <int>
-<show endpoint [summary|address|interface|vlan|vrf]>
-show vrf
-show ip route vrf <vrfname>
-show ip route <prefix> vrf <vrfname>
-iping -V <vrfname> <ipaddress>
+    show version
+    show interface 1/n 
+    show interface brief
+    show interface status
+    show interface description
+    show interface 1/n transceiver detail
+    show hardware
+    show module
+    show environment
+    show clock
+    show port-channel summary
+    show vpc brief
+    show cdp neighbor
+    show lldp neighbor
+    show endpoint interface <int>
+    show endpoint [summary|address|interface|vlan|vrf]
+    show vrf
+    show ip route vrf <vrfname>
+    show ip route <prefix> vrf <vrfname>
+    iping -V <vrfname> <ipaddress>
