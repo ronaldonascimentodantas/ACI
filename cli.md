@@ -4,26 +4,26 @@ Usesful ACI CLI commands. For leaf switches and APIC Controllers.
 
 ## APIC CLI
 
-acidiag avread
-acidiag cluster
-acidiag fnvread
-avread
-show oob-mgmt
-show controller
-df -k
-show version
-show firmware upgrade status
-attach SWITCH-NAME
-fabric <nodeid> <swich-command>
-fabric <nodeid1>-<nodeid2> <swich-command>
-e.g.: fabric 101 show version 
+    acidiag avread
+    acidiag cluster
+    acidiag fnvread
+    avread
+    show oob-mgmt
+    show controller
+    df -k
+    show version
+    show firmware upgrade status
+    attach SWITCH-NAME
+    fabric <nodeid> <swich-command>
+    fabric <nodeid1>-<nodeid2> <swich-command>
+          e.g.: fabric 101 show version 
 
-show runn leaf <leafid>
-show run template port-channel <vpc_pol-grp>
-fabric <nodeid> show interface desc
-show tenant <tenant name> application <ap> endpoints
-show endpoints mac <mac-address>
-show endpoints vlan <vlanid>
+    show runn leaf <leafid>
+    show run template port-channel <vpc_pol-grp>
+    fabric <nodeid> show interface desc
+    show tenant <tenant name> application <ap> endpoints
+    show endpoints mac <mac-address>
+    show endpoints vlan <vlanid>
 
 show tenant <tenantname> detail
 show tenant <tenant name> epg <epgname> details
