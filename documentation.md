@@ -30,3 +30,7 @@ https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/5x/verified-scalability/cisco
 
 ACI Virtualization Compatibility Matrix:
 https://www.cisco.com/c/dam/en/us/td/docs/Website/datacenter/aci/virtualization/matrix/virtmatrix.html
+
+Cisco ACI Switch Command Reference, NX-OS Release 13.x:
+https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/sw/3-x/cli/inxos/13x/b_ACI_Switch_Command_Ref_13x.html
+
