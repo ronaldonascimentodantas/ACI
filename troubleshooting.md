@@ -10,6 +10,9 @@ https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/sw/1-x/troubl
 Chapter: Troubleshooting Overview
 https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/sw/1-x/troubleshooting/b_APIC_Troubleshooting/m_troubleshooting_overview.html
 
+Troubleshoot ACI Fabric Discovery - Device Replacement:
+https://www.cisco.com/c/en/us/support/docs/cloud-systems-management/application-policy-infrastructure-controller-apic/218036-troubleshoot-aci-fabric-discovery-devi.html
+
 Cisco ACI Lab [Cisco Live]:
 https://aci-lab.ciscolive.com/lab/pod4/intro/landing
 https://aci-lab.ciscolive.com/lab/pod4/aci/aci-trouble
