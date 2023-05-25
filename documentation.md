@@ -31,6 +31,12 @@ https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/5x/verified-scalability/cisco
 ACI Virtualization Compatibility Matrix:
 https://www.cisco.com/c/dam/en/us/td/docs/Website/datacenter/aci/virtualization/matrix/virtmatrix.html
 
+ACI Fabric Endpoint Learning White Paper:
+https://www.cisco.com/c/en/us/solutions/collateral/data-center-virtualization/application-centric-infrastructure/white-paper-c11-739989.html
+
+Cisco ACI Contract Guide White Paper:
+https://www.cisco.com/c/en/us/solutions/collateral/data-center-virtualization/application-centric-infrastructure/white-paper-c11-743951.html
+
 Cisco ACI Switch Command Reference, NX-OS Release 13.x:
 https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/sw/3-x/cli/inxos/13x/b_ACI_Switch_Command_Ref_13x.html
 
