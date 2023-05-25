@@ -47,6 +47,7 @@ Usesful ACI CLI commands. For leaf switches and APIC Controllers.
     show vpc brief
     show cdp neighbor
     show lldp neighbor
+    show endpoint
     show endpoint interface <int>
     show endpoint [summary|address|interface|vlan|vrf]
     show vrf
