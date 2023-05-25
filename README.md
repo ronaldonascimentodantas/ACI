@@ -1,7 +1,6 @@
 # ACI
 
-## Learn
-To Learn more about Cisco ACI - step by step:
+## Learn  
 <https://github.com/ronaldonascimentodantas/ACI/blob/main/learn.md>
 
 ## Documentation
