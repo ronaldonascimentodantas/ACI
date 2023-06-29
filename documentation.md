@@ -28,8 +28,11 @@ https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/sw/recommende
 Verified Scalability Guide for Cisco APIC, Release 5.2(7) and Cisco Nexus 9000 Series ACI-Mode Switches, Release 15.2(7):  
 https://www.cisco.com/c/en/us/td/docs/dcn/aci/apic/5x/verified-scalability/cisco-aci-verified-scalability-guide-527.html
 
-ACI Virtualization Compatibility Matrix:  
+ACI Virtualization Compatibility Matrix:
 https://www.cisco.com/c/dam/en/us/td/docs/Website/datacenter/aci/virtualization/matrix/virtmatrix.html
+
+Nexus 9000 Series Switch FEX Support (Compatibility Matrix):
+https://www.cisco.com/c/dam/en/us/td/docs/Website/datacenter/fexmatrix/fexmatrix.html
 
 ACI Fabric Endpoint Learning White Paper:  
 https://www.cisco.com/c/en/us/solutions/collateral/data-center-virtualization/application-centric-infrastructure/white-paper-c11-739989.html
