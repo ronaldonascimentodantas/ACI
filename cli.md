@@ -54,3 +54,11 @@ Usesful ACI CLI commands. For leaf switches and APIC Controllers.
     show ip route vrf <vrfname>
     show ip route <prefix> vrf <vrfname>
     iping -V <vrfname> <ipaddress>
+    show bgp ipv4 unicast neighbors <bgpneighbor> advertised-routes  vrf <vrfname>
+    show bgp ipv4 unicast neighbors <bgpneighbor> routes vrf <vrfname>
+    show ip bgp summary vrf <vrfname>
+    show ip bgp neighbors <bgpneighbor> vrf <vrfname>
+    
+
+
+    
