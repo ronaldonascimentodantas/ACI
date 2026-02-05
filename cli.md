@@ -58,7 +58,8 @@ Usesful ACI CLI commands. For leaf switches and APIC Controllers.
     show bgp ipv4 unicast neighbors <bgpneighbor> routes vrf <vrfname>
     show ip bgp summary vrf <vrfname>
     show ip bgp neighbors <bgpneighbor> vrf <vrfname>
-    
+    show port-channel internal info interface port-channel <ponumber>
+    show port-channel internal info interface port-channel <ponumber> | grep hash
 
 
     
